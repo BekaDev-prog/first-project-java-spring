@@ -28,3 +28,5 @@ The app shows a greeting message and displays an image on the page using Thymele
 
 GET http://localhost:8080/hello-text
 This is a raw text response using @ResponseBody.
+
+![App Screenshot](screenshot.png.png)
