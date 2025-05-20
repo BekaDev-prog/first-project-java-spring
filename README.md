@@ -25,3 +25,6 @@ The app shows a greeting message and displays an image on the page using Thymele
 2. Run the `FirstProjectJavaSpringApplication` class  
 3. In the browser, go to [http://localhost:8080/hello](http://localhost:8080/hello)  
 4. You will see the greeting and image  
+
+GET http://localhost:8080/hello-text
+This is a raw text response using @ResponseBody.
